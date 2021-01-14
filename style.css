@@ -180,8 +180,9 @@ header div {
   }
   .header-gnav-list a {
     border: none;
-    margin-left: 16px;
-    padding: 5px;
+    margin-left: 13px;
+    line-height:85px;
+    padding: 0px;
   }
 }
 
