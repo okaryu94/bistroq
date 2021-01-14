@@ -170,7 +170,7 @@ header div {
   color: #fff;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1000px) {
   .header-gnav-list {
     margin: 0 30px;
     display: -webkit-box;
@@ -181,6 +181,22 @@ header div {
   .header-gnav-list a {
     border: none;
     line-height:85px;
+    padding: 0 15px;
+  }
+  .header-gnav-list a:hover{
+    color:#c2b35c;
+    background-color:#fff;
+  }
+  @media screen and (min-width: 768px) {
+  .header-gnav-list {
+    margin: 0 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    border: none;
+  }
+  .header-gnav-list a {
+    border: none;
     padding: 0 15px;
   }
   .header-gnav-list a:hover{
