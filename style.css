@@ -224,7 +224,7 @@ header div {
   font-size: 16px;
   font-weight: bold;
   color: #fff;
-  background-color: #ff9800;
+  background-color: #c2b35c;
   text-align: center;
   max-width: 280px;
   width: 60%;
@@ -237,7 +237,7 @@ header div {
 }
 
 .mv-btn:hover {
-  color: #FFBC61;
+  color: #c2b35c;
   background-color: #fff;
 }
 
