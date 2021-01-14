@@ -180,10 +180,13 @@ header div {
   }
   .header-gnav-list a {
     border: none;
-    margin-left: 13px;
+    margin-left: 30px;
     line-height:85px;
     padding: 0px;
   }
+  .header-gnav-list a:hover{
+    color:#c2b35c;
+    background-color:#fff;
 }
 
 .is-openMenu .header-btn span {
