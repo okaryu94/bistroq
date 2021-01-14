@@ -181,7 +181,7 @@ header div {
   .header-gnav-list a {
     border: none;
     line-height:85px;
-    padding: 15px;
+    padding: 0 15px;
   }
   .header-gnav-list a:hover{
     color:#c2b35c;
